@@ -30,7 +30,7 @@ These instructions are intended for those wishing to examine the Synthea source 
 ### Installation
 
 **System Requirements:**
-Synthea<sup>TM</sup> requires Java 11 or newer.
+Synthea<sup>TM</sup> requires [Java 11 or newer.](https://www.oracle.com/java/technologies/downloads/).  Requires [Gradle to be installed.](https://gradle.org/install/)
 
 To clone the Synthea<sup>TM</sup> repo, then build and run the test suite:
 ```
